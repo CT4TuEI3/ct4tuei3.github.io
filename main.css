@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-=======
 body {
-    background: url(img/pic1.jpg) no-repeat center fixed;
+    background: url(https://raw.githubusercontent.com/CT4TuEI3/ct4tuei3.github.io/main/img/pic1.jpg) no-repeat center fixed;
     background-size: cover;
     font-family: sans-serif;
     color:white;
 }
->>>>>>> parent of c876ac2 (v.3.1.1 Fix background)
 h1 {
     font-size: 500%;
     text-align: center;
