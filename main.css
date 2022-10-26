@@ -1,3 +1,9 @@
+body {
+    background: url(https://github.com/CT4TuEI3/ct4tuei3.github.io/blob/main/img/pic1.jpg?raw=true) no-repeat center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+    color:white;
+}
 h1 {
     font-size: 500%;
     text-align: center;
